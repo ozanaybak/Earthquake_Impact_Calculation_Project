@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b5dba32733a19651663163a7bba01c58 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b5dba32733a19651663163a7bba01c58" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b5dba32733a19651663163a7bba01c58 = L.map(
+                "map_b5dba32733a19651663163a7bba01c58",
+                {
+                    center: [41.0082, 28.9784],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 11,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ee9a3eef92a2d98b1950921061e00d3a = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            var circle_marker_f9f7149ef61ec85589c8b3ebb5e687d4 = L.circleMarker(
+                [40.8740929, 29.0898721],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 217, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_f9f7149ef61ec85589c8b3ebb5e687d4.bindTooltip(
+                `<div>
+                     Adalar: 217 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c38a1a9564a3b0670124a3037f824857 = L.circleMarker(
+                [41.186394, 28.738889],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 34, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_c38a1a9564a3b0670124a3037f824857.bindTooltip(
+                `<div>
+                     Arnavutkoy: 34 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e711af68bf76f6e671377a5c890a647b = L.circleMarker(
+                [40.9869642, 29.1319157],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 330, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_e711af68bf76f6e671377a5c890a647b.bindTooltip(
+                `<div>
+                     Atasehir: 330 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_201810861d9a33574c59ad19d8a635a6 = L.circleMarker(
+                [41.01534789999999, 28.7314618],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1385, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_201810861d9a33574c59ad19d8a635a6.bindTooltip(
+                `<div>
+                     Avcilar: 1385 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f196aff2fd9de6736262dedc9f150126 = L.circleMarker(
+                [41.0456474, 28.82472199999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3148, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_f196aff2fd9de6736262dedc9f150126.bindTooltip(
+                `<div>
+                     Bagcilar: 3148 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c5955f58b97cf54bd0278c1aaca77852 = L.circleMarker(
+                [40.9975, 28.850556],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4261, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_c5955f58b97cf54bd0278c1aaca77852.bindTooltip(
+                `<div>
+                     Bahcelievler: 4261 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_04b1a22f6d2d1f0837df6829f2897adc = L.circleMarker(
+                [40.9831984, 28.8536084],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2701, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_04b1a22f6d2d1f0837df6829f2897adc.bindTooltip(
+                `<div>
+                     Bakirkoy: 2701 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_fe225ba6948ed165b7e9ddb84dc00b45 = L.circleMarker(
+                [41.1015173, 28.7897558],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 287, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_fe225ba6948ed165b7e9ddb84dc00b45.bindTooltip(
+                `<div>
+                     Basaksehir: 287 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d310061825d68c482f4971e3ec7dbc74 = L.circleMarker(
+                [41.0481503, 28.90045529999999],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1394, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_d310061825d68c482f4971e3ec7dbc74.bindTooltip(
+                `<div>
+                     Bayrampasa: 1394 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_40f76cdb809bfa612a71811f008be4ee = L.circleMarker(
+                [41.046231, 29.006729],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 99, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_40f76cdb809bfa612a71811f008be4ee.bindTooltip(
+                `<div>
+                     Besiktas: 99 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f98061a120417d6d1a821314bb932ca3 = L.circleMarker(
+                [41.132719, 29.10569],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 112, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_f98061a120417d6d1a821314bb932ca3.bindTooltip(
+                `<div>
+                     Beykoz: 112 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_814dc282ff64815fecf43c701b38d809 = L.circleMarker(
+                [40.9910421, 28.6498297],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1456, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_814dc282ff64815fecf43c701b38d809.bindTooltip(
+                `<div>
+                     Beylikduzu: 1456 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5fe7456b90b82c689277fc188561174c = L.circleMarker(
+                [41.0382864, 28.9703304],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 609, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_5fe7456b90b82c689277fc188561174c.bindTooltip(
+                `<div>
+                     Beyoglu: 609 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_292ececcca09e5e028243e540ff8001e = L.circleMarker(
+                [41.024474, 28.585453],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 885, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_292ececcca09e5e028243e540ff8001e.bindTooltip(
+                `<div>
+                     Buyukcekmece: 885 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5cf9450dd1c57994e5a6b6a68d669ccf = L.circleMarker(
+                [41.142259, 28.457469],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_5cf9450dd1c57994e5a6b6a68d669ccf.bindTooltip(
+                `<div>
+                     Catalca: 25 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a59f6e9f25de88b3411088ad0167bbda = L.circleMarker(
+                [41.104235, 29.3177272],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_a59f6e9f25de88b3411088ad0167bbda.bindTooltip(
+                `<div>
+                     Cekmekoy: 18 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2ec8add783902d89a169c4d6d1e22ad6 = L.circleMarker(
+                [41.07941330000001, 28.8538545],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1687, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_2ec8add783902d89a169c4d6d1e22ad6.bindTooltip(
+                `<div>
+                     Esenler: 1687 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d28681095d349277fb9378dc1707065d = L.circleMarker(
+                [41.0343177, 28.6614809],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2789, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_d28681095d349277fb9378dc1707065d.bindTooltip(
+                `<div>
+                     Esenyurt: 2789 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b3ecc92c55132fa6c2ca675870ce4a15 = L.circleMarker(
+                [41.1871598, 28.8829816],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 525, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_b3ecc92c55132fa6c2ca675870ce4a15.bindTooltip(
+                `<div>
+                     Eyup: 525 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6509da96c3ac2aebd19613cfc82b703e = L.circleMarker(
+                [41.0168639, 28.9470422],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3897, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_6509da96c3ac2aebd19613cfc82b703e.bindTooltip(
+                `<div>
+                     Fatih: 3897 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c292ab7749f84cb749f7970fbab5602d = L.circleMarker(
+                [41.075956, 28.9004545],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 418, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_c292ab7749f84cb749f7970fbab5602d.bindTooltip(
+                `<div>
+                     Gaziosmanpasa: 418 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9698d1a48d0fc5a5617dd3097a47f5d0 = L.circleMarker(
+                [41.020546, 28.874244],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1965, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_9698d1a48d0fc5a5617dd3097a47f5d0.bindTooltip(
+                `<div>
+                     Gungoren: 1965 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7fe87621ee7b378faf199c6c99d15178 = L.circleMarker(
+                [40.98186700000001, 29.0576302],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 592, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_7fe87621ee7b378faf199c6c99d15178.bindTooltip(
+                `<div>
+                     Kadikoy: 592 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_db4316a228fcfa4fee1cc6b32684271b = L.circleMarker(
+                [41.081402, 28.9819771],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 275, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_db4316a228fcfa4fee1cc6b32684271b.bindTooltip(
+                `<div>
+                     Kagithane: 275 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_421cdb83158b61f0be0c0d68551a3431 = L.circleMarker(
+                [40.9184004, 29.2204548],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 553, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_421cdb83158b61f0be0c0d68551a3431.bindTooltip(
+                `<div>
+                     Kartal: 553 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_16dbb637c78eab8617815e3d9d5f15a8 = L.circleMarker(
+                [41.0212376, 28.7780987],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4079, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_16dbb637c78eab8617815e3d9d5f15a8.bindTooltip(
+                `<div>
+                     Kucukcekmece: 4079 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f81854b329e2f00116d37f22cc35c051 = L.circleMarker(
+                [40.9497961, 29.1739439],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 706, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_f81854b329e2f00116d37f22cc35c051.bindTooltip(
+                `<div>
+                     Maltepe: 706 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_97eeeb6a1f1ef4287c88eccf6a865043 = L.circleMarker(
+                [40.879326, 29.258135],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 707, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_97eeeb6a1f1ef4287c88eccf6a865043.bindTooltip(
+                `<div>
+                     Pendik: 707 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_410e4974251bc4e9206e6cae40917829 = L.circleMarker(
+                [41.0287028, 29.2901829],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 216, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_410e4974251bc4e9206e6cae40917829.bindTooltip(
+                `<div>
+                     Sancaktepe: 216 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e4ae20ede7c55b788f7cdec7909988bc = L.circleMarker(
+                [41.1814742, 29.0385466],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 141, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_e4ae20ede7c55b788f7cdec7909988bc.bindTooltip(
+                `<div>
+                     Sariyer: 141 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d661403f3291771fe2f75c98b735ee13 = L.circleMarker(
+                [41.174903, 29.609588],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_d661403f3291771fe2f75c98b735ee13.bindTooltip(
+                `<div>
+                     Sile: 0 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cf1f2cd62a721fb989e87a57465cfd27 = L.circleMarker(
+                [41.073678, 28.247868],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 246, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_cf1f2cd62a721fb989e87a57465cfd27.bindTooltip(
+                `<div>
+                     Silivri: 246 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3da6a373f2e63aa2af2a0ac44db8253e = L.circleMarker(
+                [41.0536216, 28.9819731],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 172, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_3da6a373f2e63aa2af2a0ac44db8253e.bindTooltip(
+                `<div>
+                     Sisli: 172 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_57c59988f79bb78962bd52a83ff0c4b8 = L.circleMarker(
+                [40.968423, 29.262008],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 300, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_57c59988f79bb78962bd52a83ff0c4b8.bindTooltip(
+                `<div>
+                     Sultanbeyli: 300 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_095398fc8a77ac48c871004d7d56015d = L.circleMarker(
+                [41.1255794, 28.8713314],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 217, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_095398fc8a77ac48c871004d7d56015d.bindTooltip(
+                `<div>
+                     Sultangazi: 217 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_abd6fca0f57f8378736b38cb93a14d00 = L.circleMarker(
+                [40.8982305, 29.3598782],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 808, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_abd6fca0f57f8378736b38cb93a14d00.bindTooltip(
+                `<div>
+                     Tuzla: 808 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_414e89e5b2f3562a842e3c093b0ffca2 = L.circleMarker(
+                [41.03332899999999, 29.10136],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 250, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_414e89e5b2f3562a842e3c093b0ffca2.bindTooltip(
+                `<div>
+                     Umraniye: 250 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2430a2f5f8b48d4ef8f3269801aeb570 = L.circleMarker(
+                [41.0189417, 29.0576298],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 365, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_2430a2f5f8b48d4ef8f3269801aeb570.bindTooltip(
+                `<div>
+                     Uskudar: 365 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6e2e583007ca0e0de4bbfda2d92b9241 = L.circleMarker(
+                [40.990635, 28.89614],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1767, "stroke": true, "weight": 3}
+            ).addTo(map_b5dba32733a19651663163a7bba01c58);
+        
+    
+            circle_marker_6e2e583007ca0e0de4bbfda2d92b9241.bindTooltip(
+                `<div>
+                     Zeytinburnu: 1767 Care In Bed
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

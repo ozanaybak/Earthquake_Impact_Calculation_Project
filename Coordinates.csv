@@ -1,0 +1,960 @@
+Nbhood,District,Care In Hospital,Latitude,Longitude
+Burgazada,Adalar,24,40.8740929,29.0898721
+Heybeliada,Adalar,66,40.8740929,29.0898721
+Kinaliada,Adalar,15,40.8740929,29.0898721
+Maden,Adalar,64,40.8740929,29.0898721
+Nizam,Adalar,48,40.8740929,29.0898721
+Adnan menderes,Arnavutkoy,1,41.186394,28.738889
+Anadolu,Arnavutkoy,8,41.186394,28.738889
+Arnavutkoy merkez,Arnavutkoy,2,41.186394,28.738889
+Ataturk,Arnavutkoy,2,41.186394,28.738889
+Baklali,Arnavutkoy,0,41.186394,28.738889
+Balaban,Arnavutkoy,0,41.186394,28.738889
+Bogazkoy istiklal,Arnavutkoy,3,41.186394,28.738889
+Bolluca,Arnavutkoy,1,41.186394,28.738889
+Boyalik,Arnavutkoy,0,41.186394,28.738889
+Cilingir,Arnavutkoy,0,41.186394,28.738889
+Deliklikaya,Arnavutkoy,0,41.186394,28.738889
+Dursunkoy,Arnavutkoy,0,41.186394,28.738889
+Durusu,Arnavutkoy,0,41.186394,28.738889
+Fatih,Arnavutkoy,0,41.186394,28.738889
+Hacimasli,Arnavutkoy,0,41.186394,28.738889
+Hadimkoy,Arnavutkoy,0,41.186394,28.738889
+Haracci,Arnavutkoy,0,41.186394,28.738889
+Hastane,Arnavutkoy,0,41.186394,28.738889
+Hicret,Arnavutkoy,0,41.186394,28.738889
+Imrahor,Arnavutkoy,2,41.186394,28.738889
+Islambey,Arnavutkoy,4,41.186394,28.738889
+Karaburun,Arnavutkoy,0,41.186394,28.738889
+Karlibayir,Arnavutkoy,1,41.186394,28.738889
+Maresal fevzi cakmak,Arnavutkoy,0,41.186394,28.738889
+Mavigol,Arnavutkoy,0,41.186394,28.738889
+Mehmet akif ersoy,Arnavutkoy,0,41.186394,28.738889
+Mustafa kemal pasa,Arnavutkoy,3,41.186394,28.738889
+Nenehatun,Arnavutkoy,0,41.186394,28.738889
+Omerli,Arnavutkoy,0,41.186394,28.738889
+Sazlibosna,Arnavutkoy,0,41.186394,28.738889
+Tasoluk,Arnavutkoy,1,41.186394,28.738889
+Tayakadin,Arnavutkoy,0,41.186394,28.738889
+Terkos,Arnavutkoy,0,41.186394,28.738889
+Yassioren,Arnavutkoy,0,41.186394,28.738889
+Yavuz selim,Arnavutkoy,1,41.186394,28.738889
+Yenikoy,Arnavutkoy,0,41.186394,28.738889
+Yesilbayir,Arnavutkoy,0,41.186394,28.738889
+Yunus emre,Arnavutkoy,5,41.186394,28.738889
+Asikveysel,Atasehir,12,40.9869642,29.1319157
+Ataturk,Atasehir,11,40.9869642,29.1319157
+Barbaros,Atasehir,42,40.9869642,29.1319157
+Esatpasa,Atasehir,14,40.9869642,29.1319157
+Ferhatpasa,Atasehir,5,40.9869642,29.1319157
+Fetih,Atasehir,3,40.9869642,29.1319157
+Icerenkoy,Atasehir,61,40.9869642,29.1319157
+Inonu,Atasehir,14,40.9869642,29.1319157
+Kayisdagi,Atasehir,31,40.9869642,29.1319157
+Kucukbakkalkoy,Atasehir,35,40.9869642,29.1319157
+Mevlana,Atasehir,7,40.9869642,29.1319157
+Mimar sinan,Atasehir,7,40.9869642,29.1319157
+Mustafa kemal,Atasehir,18,40.9869642,29.1319157
+Ornek,Atasehir,25,40.9869642,29.1319157
+Yeni camlica,Atasehir,11,40.9869642,29.1319157
+Yenisahra,Atasehir,32,40.9869642,29.1319157
+Yenisehir,Atasehir,2,40.9869642,29.1319157
+Ambarli,Avcilar,191,41.01534789999999,28.7314618
+Cihangir,Avcilar,252,41.01534789999999,28.7314618
+Denizkoskler,Avcilar,212,41.01534789999999,28.7314618
+Firuzkoy,Avcilar,61,41.01534789999999,28.7314618
+Gumuspala,Avcilar,184,41.01534789999999,28.7314618
+Merkez,Avcilar,124,41.01534789999999,28.7314618
+Mustafa kemalpasa,Avcilar,134,41.01534789999999,28.7314618
+Tahtakale,Avcilar,26,41.01534789999999,28.7314618
+Universite,Avcilar,55,41.01534789999999,28.7314618
+Yesilkent,Avcilar,146,41.01534789999999,28.7314618
+100. yil,Bagcilar,25,41.0456474,28.82472199999999
+Baglar,Bagcilar,90,41.0456474,28.82472199999999
+Barbaros,Bagcilar,133,41.0456474,28.82472199999999
+Cinar,Bagcilar,215,41.0456474,28.82472199999999
+Demirkapi,Bagcilar,192,41.0456474,28.82472199999999
+Evren,Bagcilar,190,41.0456474,28.82472199999999
+Fatih,Bagcilar,107,41.0456474,28.82472199999999
+Fevzi cakmak,Bagcilar,118,41.0456474,28.82472199999999
+Goztepe,Bagcilar,71,41.0456474,28.82472199999999
+Gunesli,Bagcilar,190,41.0456474,28.82472199999999
+Hurriyet,Bagcilar,171,41.0456474,28.82472199999999
+Inonu,Bagcilar,169,41.0456474,28.82472199999999
+Kazim karabekir,Bagcilar,174,41.0456474,28.82472199999999
+Kemalpasa,Bagcilar,81,41.0456474,28.82472199999999
+Kirazli,Bagcilar,203,41.0456474,28.82472199999999
+Mahmutbey,Bagcilar,110,41.0456474,28.82472199999999
+Merkez,Bagcilar,137,41.0456474,28.82472199999999
+Sancaktepe,Bagcilar,92,41.0456474,28.82472199999999
+Yavuz selim,Bagcilar,125,41.0456474,28.82472199999999
+Yenigun,Bagcilar,138,41.0456474,28.82472199999999
+Yenimahalle,Bagcilar,128,41.0456474,28.82472199999999
+Yildiztepe,Bagcilar,289,41.0456474,28.82472199999999
+Bahcelievler,Bahcelievler,480,40.9975,28.850556
+Cumhuriyet,Bahcelievler,254,40.9975,28.850556
+Cobancesme,Bahcelievler,217,40.9975,28.850556
+Fevzi cakmak,Bahcelievler,180,40.9975,28.850556
+Hurriyet,Bahcelievler,335,40.9975,28.850556
+Kocasinan merkez,Bahcelievler,394,40.9975,28.850556
+Siyavuspasa,Bahcelievler,567,40.9975,28.850556
+Soganli,Bahcelievler,491,40.9975,28.850556
+Sirinevler,Bahcelievler,592,40.9975,28.850556
+Yenibosna merkez,Bahcelievler,193,40.9975,28.850556
+Zafer,Bahcelievler,558,40.9975,28.850556
+Atakoy 1. kisim,Bakirkoy,31,40.9831984,28.8536084
+Atakoy 2-5-6. kisim,Bakirkoy,176,40.9831984,28.8536084
+Atakoy 3-4-11. kisim,Bakirkoy,110,40.9831984,28.8536084
+Atakoy 7-8-9-10. kisim,Bakirkoy,165,40.9831984,28.8536084
+Basinkoy,Bakirkoy,123,40.9831984,28.8536084
+Cevizlik,Bakirkoy,74,40.9831984,28.8536084
+Kartaltepe,Bakirkoy,424,40.9831984,28.8536084
+Osmaniye,Bakirkoy,225,40.9831984,28.8536084
+Sakizagaci,Bakirkoy,104,40.9831984,28.8536084
+Senlikkoy,Bakirkoy,324,40.9831984,28.8536084
+Yenimahalle,Bakirkoy,108,40.9831984,28.8536084
+Yesilkoy,Bakirkoy,413,40.9831984,28.8536084
+Yesilyurt,Bakirkoy,91,40.9831984,28.8536084
+Zeytinlik,Bakirkoy,70,40.9831984,28.8536084
+Zuhuratbaba,Bakirkoy,263,40.9831984,28.8536084
+Altinsehir,Basaksehir,28,41.1015173,28.7897558
+Bahcesehir 1. kisim,Basaksehir,11,41.1015173,28.7897558
+Bahcesehir 2. kisim,Basaksehir,53,41.1015173,28.7897558
+Basak,Basaksehir,7,41.1015173,28.7897558
+Basaksehir,Basaksehir,6,41.1015173,28.7897558
+Guvercintepe,Basaksehir,80,41.1015173,28.7897558
+Kayabasi,Basaksehir,9,41.1015173,28.7897558
+Sahintepe,Basaksehir,54,41.1015173,28.7897558
+Samlar,Basaksehir,0,41.1015173,28.7897558
+Ziya gokalp,Basaksehir,39,41.1015173,28.7897558
+Altintepsi,Bayrampasa,161,41.0481503,28.90045529999999
+Cevatpasa,Bayrampasa,51,41.0481503,28.90045529999999
+Ismet pasa,Bayrampasa,108,41.0481503,28.90045529999999
+Kartaltepe,Bayrampasa,180,41.0481503,28.90045529999999
+Kocatepe,Bayrampasa,82,41.0481503,28.90045529999999
+Muratpasa,Bayrampasa,245,41.0481503,28.90045529999999
+Ortamahalle,Bayrampasa,106,41.0481503,28.90045529999999
+Terazidere,Bayrampasa,93,41.0481503,28.90045529999999
+Vatan,Bayrampasa,60,41.0481503,28.90045529999999
+Yenidogan,Bayrampasa,122,41.0481503,28.90045529999999
+Yildirim,Bayrampasa,186,41.0481503,28.90045529999999
+Abbasaga,Besiktas,4,41.046231,29.006729
+Akat,Besiktas,5,41.080153,29.033659
+Arnavutkoy,Besiktas,0,41.042969,29.009748
+Balmumcu,Besiktas,1,41.082546,29.019052
+Bebek,Besiktas,2,41.087196,29.034111
+Cihannuma,Besiktas,5,41.050587,29.01164
+Dikilitas,Besiktas,7,41.045006,29.011431
+Etiler,Besiktas,2,41.078221,29.038822
+Gayrettepe,Besiktas,6,41.079694,29.022512
+Konaklar,Besiktas,4,41.063755,29.041146
+Kurucesme,Besiktas,0,41.072459,29.026933
+Kultur,Besiktas,1,41.039119,29.008013
+Levazim,Besiktas,1,41.047745,29.016648
+Levent,Besiktas,1,41.082092,29.025695
+Mecidiye,Besiktas,17,41.076792,29.035888
+Muradiye,Besiktas,3,41.0455,29.022377
+Nisbetiye,Besiktas,2,41.080998,29.036685
+Ortakoy,Besiktas,9,41.050791,29.027522
+Sinanpasa,Besiktas,10,41.045943,29.010858
+Turkali,Besiktas,10,41.073686,29.025178
+Ulus,Besiktas,1,41.074882,29.044979
+Visnezade,Besiktas,4,41.053017,29.013941
+Yildiz,Besiktas,4,41.056866,29.014836
+Acarlar,Beykoz,0,41.132719,29.10569
+Akbaba,Beykoz,0,41.132719,29.10569
+Alibahadir,Beykoz,0,41.132719,29.10569
+Anadolu feneri,Beykoz,0,41.132719,29.10569
+Anadolu hisari,Beykoz,2,41.132719,29.10569
+Anadolu kavagi,Beykoz,0,41.132719,29.10569
+Baklaci,Beykoz,0,41.132719,29.10569
+Bozhane,Beykoz,0,41.132719,29.10569
+Cumhuriyet,Beykoz,0,41.132719,29.10569
+Camlibahce,Beykoz,14,41.132719,29.10569
+Cengeldere,Beykoz,0,41.132719,29.10569
+Ciftlik,Beykoz,0,41.132719,29.10569
+Cigdem,Beykoz,0,41.132719,29.10569
+Cubuklu,Beykoz,13,41.132719,29.10569
+Dereseki,Beykoz,0,41.132719,29.10569
+Elmali,Beykoz,0,41.132719,29.10569
+Fatih,Beykoz,0,41.132719,29.10569
+Goksu,Beykoz,6,41.132719,29.10569
+Gollu,Beykoz,0,41.132719,29.10569
+Gorele,Beykoz,0,41.132719,29.10569
+Goztepe,Beykoz,5,41.132719,29.10569
+Gumussuyu,Beykoz,8,41.132719,29.10569
+Incirkoy,Beykoz,5,41.132719,29.10569
+Ishakli,Beykoz,0,41.132719,29.10569
+Kanlica,Beykoz,0,41.132719,29.10569
+Kavacik,Beykoz,13,41.132719,29.10569
+Kaynarca,Beykoz,0,41.132719,29.10569
+Kilicli,Beykoz,0,41.132719,29.10569
+Mahmutsevketpasa,Beykoz,0,41.132719,29.10569
+Merkez,Beykoz,0,41.132719,29.10569
+Ortacesme,Beykoz,5,41.132719,29.10569
+Ogumce,Beykoz,0,41.132719,29.10569
+Ornekkoy,Beykoz,0,41.132719,29.10569
+Pasabahce,Beykoz,4,41.132719,29.10569
+Pasamandira,Beykoz,0,41.132719,29.10569
+Polonezkoy,Beykoz,0,41.132719,29.10569
+Poyrazkoy,Beykoz,0,41.132719,29.10569
+Riva,Beykoz,0,41.132719,29.10569
+Ruzgarlibahce,Beykoz,6,41.132719,29.10569
+Soguksu,Beykoz,0,41.132719,29.10569
+Tokatkoy,Beykoz,9,41.132719,29.10569
+Yalikoy,Beykoz,7,41.132719,29.10569
+Yavuz selim,Beykoz,0,41.132719,29.10569
+Yeni mahalle,Beykoz,15,41.132719,29.10569
+Zerzavatci,Beykoz,0,41.132719,29.10569
+Adnan kahveci,Beylikduzu,285,40.9910421,28.6498297
+Baris,Beylikduzu,222,40.9910421,28.6498297
+Buyuksehir,Beylikduzu,65,40.9910421,28.6498297
+Cumhuriyet,Beylikduzu,95,40.9910421,28.6498297
+Dereagzi,Beylikduzu,80,40.9910421,28.6498297
+Gurpinar,Beylikduzu,104,40.9910421,28.6498297
+Kavakli,Beylikduzu,147,40.9910421,28.6498297
+Marmara,Beylikduzu,152,40.9910421,28.6498297
+Sahil,Beylikduzu,37,40.9910421,28.6498297
+Yakuplu,Beylikduzu,269,40.9910421,28.6498297
+Arap cami,Beyoglu,1,41.0382864,28.9703304
+Asmali mescit,Beyoglu,1,41.0382864,28.9703304
+Bedrettin,Beyoglu,2,41.0382864,28.9703304
+Bereketzade,Beyoglu,1,41.0382864,28.9703304
+Bostan,Beyoglu,20,41.0382864,28.9703304
+Bulbul,Beyoglu,4,41.0382864,28.9703304
+Camiikebir,Beyoglu,34,41.0382864,28.9703304
+Cihangir,Beyoglu,2,41.0382864,28.9703304
+Catma mescit,Beyoglu,3,41.0382864,28.9703304
+Cukur,Beyoglu,3,41.0382864,28.9703304
+Emekyemez,Beyoglu,1,41.0382864,28.9703304
+Evliya celebi,Beyoglu,1,41.0382864,28.9703304
+Fetihtepe,Beyoglu,19,41.0382864,28.9703304
+Firuzaga,Beyoglu,4,41.0382864,28.9703304
+Gumussuyu,Beyoglu,2,41.0382864,28.9703304
+Haciahmet,Beyoglu,28,41.0382864,28.9703304
+Hacimimi,Beyoglu,5,41.0382864,28.9703304
+Halicioglu,Beyoglu,31,41.0382864,28.9703304
+Huseyinaga,Beyoglu,1,41.0382864,28.9703304
+Istiklal,Beyoglu,27,41.0382864,28.9703304
+Kadi mehmet efendi,Beyoglu,19,41.0382864,28.9703304
+Kalyoncu kullugu,Beyoglu,6,41.0382864,28.9703304
+Kamer hatun,Beyoglu,2,41.0382864,28.9703304
+Kaptanpasa,Beyoglu,32,41.0382864,28.9703304
+Katipmustafa celebi,Beyoglu,1,41.0382864,28.9703304
+Kececi piri,Beyoglu,29,41.0382864,28.9703304
+Kemankes karamustafapasa,Beyoglu,5,41.0382864,28.9703304
+Kilicali pasa,Beyoglu,2,41.0382864,28.9703304
+Kocatepe,Beyoglu,2,41.0382864,28.9703304
+Kulaksiz,Beyoglu,32,41.0382864,28.9703304
+Kuloglu,Beyoglu,2,41.0382864,28.9703304
+Kucuk piyale,Beyoglu,29,41.0382864,28.9703304
+Mueyyetzade,Beyoglu,1,41.0382864,28.9703304
+Omer avni,Beyoglu,5,41.0382864,28.9703304
+Ornektepe,Beyoglu,40,41.0382864,28.9703304
+Piripasa,Beyoglu,57,41.0382864,28.9703304
+Piyalepasa,Beyoglu,26,41.0382864,28.9703304
+Purtelas hasan efendi,Beyoglu,4,41.0382864,28.9703304
+Sururi mehmet efendi,Beyoglu,24,41.0382864,28.9703304
+Sutluce,Beyoglu,55,41.0382864,28.9703304
+Sahkulu,Beyoglu,1,41.0382864,28.9703304
+Sehit muhtar,Beyoglu,2,41.0382864,28.9703304
+Tomtom,Beyoglu,3,41.0382864,28.9703304
+Yahya kahya,Beyoglu,31,41.0382864,28.9703304
+Yenisehir,Beyoglu,9,41.0382864,28.9703304
+19 mayis,Buyukcekmece,35,41.024474,28.585453
+Ahmediye,Buyukcekmece,3,41.024474,28.585453
+Alkent 2000,Buyukcekmece,6,41.024474,28.585453
+Ataturk,Buyukcekmece,76,41.024474,28.585453
+Bahcelievler,Buyukcekmece,7,41.024474,28.585453
+Celaliye,Buyukcekmece,4,41.024474,28.585453
+Cumhuriyet,Buyukcekmece,31,41.024474,28.585453
+Cakmakli,Buyukcekmece,22,41.024474,28.585453
+Dizdariye,Buyukcekmece,53,41.024474,28.585453
+Ekinoba,Buyukcekmece,40,41.024474,28.585453
+Fatih,Buyukcekmece,88,41.024474,28.585453
+Guzelce,Buyukcekmece,30,41.024474,28.585453
+Hurriyet,Buyukcekmece,68,41.024474,28.585453
+Kamiloba,Buyukcekmece,1,41.024474,28.585453
+Karaagac,Buyukcekmece,0,41.024474,28.585453
+Kumburgaz,Buyukcekmece,17,41.024474,28.585453
+Mimar sinan merkez,Buyukcekmece,61,41.024474,28.585453
+Mimaroba,Buyukcekmece,63,41.024474,28.585453
+Murat cesme,Buyukcekmece,49,41.024474,28.585453
+Pinartepe,Buyukcekmece,75,41.024474,28.585453
+Sinanoba,Buyukcekmece,62,41.024474,28.585453
+Turkoba,Buyukcekmece,17,41.024474,28.585453
+Ulus,Buyukcekmece,71,41.024474,28.585453
+Yenimahalle,Buyukcekmece,6,41.024474,28.585453
+Akalan,Catalca,0,41.142259,28.457469
+Ataturk,Catalca,0,41.142259,28.457469
+Aydinlar,Catalca,0,41.142259,28.457469
+Bahsayis,Catalca,0,41.142259,28.457469
+Basak,Catalca,0,41.142259,28.457469
+Belgrat,Catalca,0,41.142259,28.457469
+Celepkoy,Catalca,0,41.142259,28.457469
+Cakil,Catalca,2,41.142259,28.457469
+Canakca,Catalca,0,41.142259,28.457469
+Ciftlikkoy,Catalca,0,41.142259,28.457469
+Dagyenice,Catalca,0,41.142259,28.457469
+Elbasan,Catalca,0,41.142259,28.457469
+Fatih,Catalca,0,41.142259,28.457469
+Ferhatpasa,Catalca,15,41.142259,28.457469
+Gokceali,Catalca,0,41.142259,28.457469
+Gumuspinar,Catalca,0,41.142259,28.457469
+Hallacli,Catalca,0,41.142259,28.457469
+Hisarbeyli,Catalca,0,41.142259,28.457469
+Ihsaniye,Catalca,0,41.142259,28.457469
+Incegiz,Catalca,0,41.142259,28.457469
+Izzettin,Catalca,0,41.142259,28.457469
+Kabakca,Catalca,0,41.142259,28.457469
+Kaleici,Catalca,6,41.142259,28.457469
+Kalfa,Catalca,0,41.142259,28.457469
+Karacakoy merkez,Catalca,0,41.142259,28.457469
+Karamandere,Catalca,0,41.142259,28.457469
+Kestanelik,Catalca,1,41.142259,28.457469
+Kizilcaali,Catalca,0,41.142259,28.457469
+Muratbey merkez,Catalca,0,41.142259,28.457469
+Nakkas,Catalca,0,41.142259,28.457469
+Oklali,Catalca,0,41.142259,28.457469
+Ormanli,Catalca,0,41.142259,28.457469
+Ovayenice,Catalca,1,41.142259,28.457469
+Orcunlu,Catalca,0,41.142259,28.457469
+Orencik,Catalca,0,41.142259,28.457469
+Subasi,Catalca,0,41.142259,28.457469
+Yalikoy,Catalca,0,41.142259,28.457469
+Yaylacik,Catalca,0,41.142259,28.457469
+Yazlik,Catalca,0,41.142259,28.457469
+Alemdag,Cekmekoy,1,41.104235,29.3177272
+Aydinlar,Cekmekoy,1,41.104235,29.3177272
+Cumhuriyet,Cekmekoy,2,41.104235,29.3177272
+Camlik,Cekmekoy,1,41.104235,29.3177272
+Catalmese,Cekmekoy,1,41.104235,29.3177272
+Eksioglu,Cekmekoy,1,41.104235,29.3177272
+Gungoren,Cekmekoy,1,41.104235,29.3177272
+Hamidiye,Cekmekoy,2,41.104235,29.3177272
+Huseyinli,Cekmekoy,0,41.104235,29.3177272
+Kirazlidere,Cekmekoy,1,41.104235,29.3177272
+Kocullu,Cekmekoy,0,41.104235,29.3177272
+Mehmet akif,Cekmekoy,3,41.104235,29.3177272
+Merkez,Cekmekoy,0,41.104235,29.3177272
+Mimar sinan,Cekmekoy,2,41.104235,29.3177272
+Nisantepe,Cekmekoy,0,41.104235,29.3177272
+Omerli,Cekmekoy,0,41.104235,29.3177272
+Resadiye,Cekmekoy,0,41.104235,29.3177272
+Sirapinar,Cekmekoy,0,41.104235,29.3177272
+Sogukpinar,Cekmekoy,0,41.104235,29.3177272
+Sultanciftligi,Cekmekoy,1,41.104235,29.3177272
+Tasdelen,Cekmekoy,1,41.104235,29.3177272
+Birlik,Esenler,63,41.07941330000001,28.8538545
+Cifte havuzlar,Esenler,29,41.07941330000001,28.8538545
+Davutpasa,Esenler,96,41.07941330000001,28.8538545
+Fatih,Esenler,190,41.07941330000001,28.8538545
+Fevzi cakmak,Esenler,162,41.07941330000001,28.8538545
+Havaalani,Esenler,55,41.07941330000001,28.8538545
+Kazim karabekir,Esenler,135,41.07941330000001,28.8538545
+Kemer,Esenler,111,41.07941330000001,28.8538545
+Menderes,Esenler,184,41.07941330000001,28.8538545
+Mimar sinan,Esenler,94,41.07941330000001,28.8538545
+Namik kemal,Esenler,87,41.07941330000001,28.8538545
+Nine hatun,Esenler,267,41.07941330000001,28.8538545
+Orucreis,Esenler,32,41.07941330000001,28.8538545
+Tuna,Esenler,125,41.07941330000001,28.8538545
+Turgut reis,Esenler,31,41.07941330000001,28.8538545
+Yavuz selim,Esenler,26,41.07941330000001,28.8538545
+Akcaburgaz,Esenyurt,27,41.0343177,28.6614809
+Akevler,Esenyurt,16,41.0343177,28.6614809
+Aksemseddin,Esenyurt,33,41.0343177,28.6614809
+Ardicli,Esenyurt,27,41.0343177,28.6614809
+Asik veysel,Esenyurt,36,41.0343177,28.6614809
+Ataturk,Esenyurt,34,41.0343177,28.6614809
+Baglarcesme,Esenyurt,103,41.0343177,28.6614809
+Balikyolu,Esenyurt,81,41.0343177,28.6614809
+Barbaros hayrettin pasa,Esenyurt,69,41.0343177,28.6614809
+Battalgazi,Esenyurt,44,41.0343177,28.6614809
+Cumhuriyet,Esenyurt,36,41.0343177,28.6614809
+Cinar,Esenyurt,72,41.0343177,28.6614809
+Esenkent,Esenyurt,21,41.0343177,28.6614809
+Fatih,Esenyurt,102,41.0343177,28.6614809
+Gokevler,Esenyurt,33,41.0343177,28.6614809
+Guzelyurt,Esenyurt,53,41.0343177,28.6614809
+Hurriyet,Esenyurt,82,41.0343177,28.6614809
+Incirtepe,Esenyurt,105,41.0343177,28.6614809
+Inonu,Esenyurt,84,41.0343177,28.6614809
+Istiklal,Esenyurt,49,41.0343177,28.6614809
+Koza,Esenyurt,14,41.0343177,28.6614809
+Mehmet akif ersoy,Esenyurt,65,41.0343177,28.6614809
+Mehtercesme,Esenyurt,120,41.0343177,28.6614809
+Mevlana,Esenyurt,60,41.0343177,28.6614809
+Namik kemal,Esenyurt,109,41.0343177,28.6614809
+Necip fazil kisakurek,Esenyurt,62,41.0343177,28.6614809
+Orhan gazi,Esenyurt,18,41.0343177,28.6614809
+Osmangazi,Esenyurt,73,41.0343177,28.6614809
+Ornek,Esenyurt,61,41.0343177,28.6614809
+Pinar,Esenyurt,130,41.0343177,28.6614809
+Piri reis,Esenyurt,35,41.0343177,28.6614809
+Saadetdere,Esenyurt,120,41.0343177,28.6614809
+Selahaddin eyyubi,Esenyurt,51,41.0343177,28.6614809
+Sultaniye,Esenyurt,61,41.0343177,28.6614809
+Suleymaniye,Esenyurt,88,41.0343177,28.6614809
+Sehitler,Esenyurt,48,41.0343177,28.6614809
+Talatpasa,Esenyurt,93,41.0343177,28.6614809
+Turgut ozal,Esenyurt,93,41.0343177,28.6614809
+Ucevler,Esenyurt,82,41.0343177,28.6614809
+Yenikent,Esenyurt,73,41.0343177,28.6614809
+Yesilkent,Esenyurt,101,41.0343177,28.6614809
+Yunus emre,Esenyurt,78,41.0343177,28.6614809
+Zafer,Esenyurt,47,41.0343177,28.6614809
+Agacli,Eyup,0,41.1871598,28.8829816
+Akpinar,Eyup,2,41.1871598,28.8829816
+Aksemsettin,Eyup,14,41.1871598,28.8829816
+Alibeykoy,Eyup,26,41.1871598,28.8829816
+Circir,Eyup,13,41.1871598,28.8829816
+Ciftalan,Eyup,0,41.1871598,28.8829816
+Defterdar,Eyup,37,41.1871598,28.8829816
+Dugmeciler,Eyup,39,41.1871598,28.8829816
+Emniyettepe,Eyup,15,41.1871598,28.8829816
+Esentepe,Eyup,17,41.1871598,28.8829816
+Gokturk merkez,Eyup,31,41.1871598,28.8829816
+Guzeltepe,Eyup,29,41.1871598,28.8829816
+Isiklar,Eyup,0,41.1871598,28.8829816
+Ihsaniye,Eyup,0,41.1871598,28.8829816
+Islambey,Eyup,44,41.1871598,28.8829816
+Karadolap,Eyup,21,41.1871598,28.8829816
+Merkez,Eyup,43,41.1871598,28.8829816
+Mimar sinan,Eyup,5,41.1871598,28.8829816
+Mithatpasa,Eyup,8,41.1871598,28.8829816
+Nisanci,Eyup,50,41.1871598,28.8829816
+Odayeri,Eyup,0,41.1871598,28.8829816
+Pirincci,Eyup,1,41.1871598,28.8829816
+Rami cuma,Eyup,32,41.1871598,28.8829816
+Rami yeni,Eyup,31,41.1871598,28.8829816
+Sakarya,Eyup,11,41.1871598,28.8829816
+Silahtaraga,Eyup,9,41.1871598,28.8829816
+Topcular,Eyup,26,41.1871598,28.8829816
+Yesilpinar,Eyup,21,41.1871598,28.8829816
+Aksaray,Fatih,103,41.0168639,28.9470422
+Aksemsettin,Fatih,174,41.0168639,28.9470422
+Alemdar,Fatih,2,41.0168639,28.9470422
+Ali kuscu,Fatih,111,41.0168639,28.9470422
+Atikali,Fatih,134,41.0168639,28.9470422
+Ayvansaray,Fatih,154,41.0168639,28.9470422
+Balabanaga,Fatih,1,41.0168639,28.9470422
+Balat,Fatih,137,41.0168639,28.9470422
+Beyazit,Fatih,1,41.0168639,28.9470422
+Binbirdirek,Fatih,7,41.0168639,28.9470422
+Cankurtaran,Fatih,11,41.0168639,28.9470422
+Cerrahpasa,Fatih,106,41.0168639,28.9470422
+Cibali,Fatih,63,41.0168639,28.9470422
+Demirtas,Fatih,3,41.0168639,28.9470422
+Dervis ali,Fatih,131,41.0168639,28.9470422
+Emin sinan,Fatih,9,41.0168639,28.9470422
+Haci kadin,Fatih,7,41.0168639,28.9470422
+Haseki sultan,Fatih,117,41.0168639,28.9470422
+Hirka-i serif,Fatih,217,41.0168639,28.9470422
+Hobyar,Fatih,0,41.0168639,28.9470422
+Hoca giyasettin,Fatih,8,41.0168639,28.9470422
+Hocapasa,Fatih,0,41.0168639,28.9470422
+Iskenderpasa,Fatih,88,41.0168639,28.9470422
+Kalenderhane,Fatih,4,41.0168639,28.9470422
+Karagumruk,Fatih,108,41.0168639,28.9470422
+Katip kasim,Fatih,18,41.0168639,28.9470422
+Kemalpasa,Fatih,4,41.0168639,28.9470422
+Koca mustafapasa,Fatih,309,41.0168639,28.9470422
+Kucuk ayasofya,Fatih,20,41.0168639,28.9470422
+Mercan,Fatih,1,41.0168639,28.9470422
+Mesihpasa,Fatih,3,41.0168639,28.9470422
+Mevlanakapi,Fatih,218,41.0168639,28.9470422
+Mimar hayrettin,Fatih,14,41.0168639,28.9470422
+Mimar kemalettin,Fatih,5,41.0168639,28.9470422
+Molla fenari,Fatih,2,41.0168639,28.9470422
+Molla gurani,Fatih,124,41.0168639,28.9470422
+Molla husrev,Fatih,6,41.0168639,28.9470422
+Muhsine hatun,Fatih,16,41.0168639,28.9470422
+Nisanca,Fatih,31,41.0168639,28.9470422
+Rustempasa,Fatih,0,41.0168639,28.9470422
+Sarac ishak,Fatih,9,41.0168639,28.9470422
+Saridemir,Fatih,1,41.0168639,28.9470422
+Seyyid omer,Fatih,236,41.0168639,28.9470422
+Silivrikapi,Fatih,171,41.0168639,28.9470422
+Sultan ahmet,Fatih,10,41.0168639,28.9470422
+Sururi,Fatih,0,41.0168639,28.9470422
+Suleymaniye,Fatih,3,41.0168639,28.9470422
+Sumbul efendi,Fatih,164,41.0168639,28.9470422
+Sehremini,Fatih,195,41.0168639,28.9470422
+Sehsuvar bey,Fatih,16,41.0168639,28.9470422
+Tahtakale,Fatih,0,41.0168639,28.9470422
+Taya hatun,Fatih,1,41.0168639,28.9470422
+Topkapi,Fatih,120,41.0168639,28.9470422
+Yavuz sinan,Fatih,5,41.0168639,28.9470422
+Yavuz sultan selim,Fatih,107,41.0168639,28.9470422
+Yedikule,Fatih,301,41.0168639,28.9470422
+Zeyrek,Fatih,91,41.0168639,28.9470422
+Baglarbasi,Gaziosmanpasa,29,41.075956,28.9004545
+Barbaros hayrettin pasa,Gaziosmanpasa,35,41.075956,28.9004545
+Fevzi cakmak,Gaziosmanpasa,18,41.075956,28.9004545
+Hurriyet,Gaziosmanpasa,36,41.075956,28.9004545
+Karadeniz,Gaziosmanpasa,44,41.075956,28.9004545
+Karayollari,Gaziosmanpasa,19,41.075956,28.9004545
+Karlitepe,Gaziosmanpasa,13,41.075956,28.9004545
+Kazim karabekir,Gaziosmanpasa,21,41.075956,28.9004545
+Merkez,Gaziosmanpasa,42,41.075956,28.9004545
+Mevlana,Gaziosmanpasa,4,41.075956,28.9004545
+Pazarici,Gaziosmanpasa,17,41.075956,28.9004545
+Sarigol,Gaziosmanpasa,38,41.075956,28.9004545
+Semsipasa,Gaziosmanpasa,18,41.075956,28.9004545
+Yeni mahalle,Gaziosmanpasa,39,41.075956,28.9004545
+Yenidogan,Gaziosmanpasa,16,41.075956,28.9004545
+Yildiztabya,Gaziosmanpasa,29,41.075956,28.9004545
+Abdurrahman nafiz gurman,Gungoren,174,41.020546,28.874244
+Akincilar,Gungoren,139,41.020546,28.874244
+Gencosman,Gungoren,175,41.020546,28.874244
+Gunestepe,Gungoren,267,41.020546,28.874244
+Guven,Gungoren,161,41.020546,28.874244
+Haznedar,Gungoren,185,41.020546,28.874244
+Maresal cakmak,Gungoren,210,41.020546,28.874244
+Mehmet nesih ozmen,Gungoren,109,41.020546,28.874244
+Merkez,Gungoren,292,41.020546,28.874244
+Sanayi,Gungoren,117,41.020546,28.874244
+Tozkoparan,Gungoren,136,41.020546,28.874244
+19 mayis,Kadikoy,18,40.98186700000001,29.0576302
+Acibadem,Kadikoy,38,40.98186700000001,29.0576302
+Bostanci,Kadikoy,35,40.98186700000001,29.0576302
+Caddebostan,Kadikoy,22,40.98186700000001,29.0576302
+Caferaga,Kadikoy,39,40.98186700000001,29.0576302
+Dumlupinar,Kadikoy,31,40.98186700000001,29.0576302
+Egitim,Kadikoy,40,40.98186700000001,29.0576302
+Erenkoy,Kadikoy,26,40.98186700000001,29.0576302
+Fenerbahce,Kadikoy,15,40.98186700000001,29.0576302
+Feneryolu,Kadikoy,21,40.98186700000001,29.0576302
+Fikirtepe,Kadikoy,29,40.98186700000001,29.0576302
+Goztepe,Kadikoy,28,40.98186700000001,29.0576302
+Hasanpasa,Kadikoy,46,40.98186700000001,29.0576302
+Kosuyolu,Kadikoy,12,40.98186700000001,29.0576302
+Kozyatagi,Kadikoy,20,40.98186700000001,29.0576302
+Merdivenkoy,Kadikoy,49,40.98186700000001,29.0576302
+Osmanaga,Kadikoy,25,40.98186700000001,29.0576302
+Rasimpasa,Kadikoy,31,40.98186700000001,29.0576302
+Sahrayicedit,Kadikoy,24,40.98186700000001,29.0576302
+Suadiye,Kadikoy,19,40.98186700000001,29.0576302
+Zuhtupasa,Kadikoy,24,40.98186700000001,29.0576302
+Caglayan,Kagithane,19,41.081402,28.9819771
+Celiktepe,Kagithane,13,41.081402,28.9819771
+Emniyet evleri,Kagithane,3,41.081402,28.9819771
+Gultepe,Kagithane,6,41.081402,28.9819771
+Gursel,Kagithane,22,41.081402,28.9819771
+Hamidiye,Kagithane,16,41.081402,28.9819771
+Harmantepe,Kagithane,8,41.081402,28.9819771
+Hurriyet,Kagithane,11,41.081402,28.9819771
+Mehmet akif ersoy,Kagithane,23,41.081402,28.9819771
+Merkez,Kagithane,29,41.081402,28.9819771
+Nurtepe,Kagithane,26,41.081402,28.9819771
+Ortabayir,Kagithane,10,41.081402,28.9819771
+Seyrantepe,Kagithane,8,41.081402,28.9819771
+Sultan selim,Kagithane,12,41.081402,28.9819771
+Sirintepe,Kagithane,8,41.081402,28.9819771
+Talatpasa,Kagithane,32,41.081402,28.9819771
+Telsizler,Kagithane,6,41.081402,28.9819771
+Yahya kemal,Kagithane,19,41.081402,28.9819771
+Yesilce,Kagithane,4,41.081402,28.9819771
+Atalar,Kartal,33,40.9184004,29.2204548
+Cevizli,Kartal,27,40.9184004,29.2204548
+Cumhuriyet,Kartal,12,40.9184004,29.2204548
+Cavusoglu,Kartal,20,40.9184004,29.2204548
+Esentepe,Kartal,21,40.9184004,29.2204548
+Gumuspinar,Kartal,22,40.9184004,29.2204548
+Hurriyet,Kartal,48,40.9184004,29.2204548
+Karliktepe,Kartal,33,40.9184004,29.2204548
+Kordonboyu,Kartal,29,40.9184004,29.2204548
+Orhantepe,Kartal,57,40.9184004,29.2204548
+Orta,Kartal,10,40.9184004,29.2204548
+Petrol is,Kartal,31,40.9184004,29.2204548
+Soganlik yeni,Kartal,20,40.9184004,29.2204548
+Topselvi,Kartal,22,40.9184004,29.2204548
+Ugur mumcu,Kartal,47,40.9184004,29.2204548
+Yakacik carsi,Kartal,21,40.9184004,29.2204548
+Yakacik yeni,Kartal,24,40.9184004,29.2204548
+Yali,Kartal,29,40.9184004,29.2204548
+Yukari,Kartal,16,40.9184004,29.2204548
+Yunus,Kartal,31,40.9184004,29.2204548
+Atakent,Kucukcekmece,82,41.0212376,28.7780987
+Ataturk,Kucukcekmece,115,41.0212376,28.7780987
+Besyol,Kucukcekmece,14,41.0212376,28.7780987
+Cennet,Kucukcekmece,330,41.0212376,28.7780987
+Cumhuriyet,Kucukcekmece,392,41.0212376,28.7780987
+Fatih,Kucukcekmece,140,41.0212376,28.7780987
+Fevzi cakmak,Kucukcekmece,232,41.0212376,28.7780987
+Gultepe,Kucukcekmece,182,41.0212376,28.7780987
+Halkali merkez,Kucukcekmece,255,41.0212376,28.7780987
+Inonu,Kucukcekmece,385,41.0212376,28.7780987
+Istasyon,Kucukcekmece,129,41.0212376,28.7780987
+Kanarya,Kucukcekmece,384,41.0212376,28.7780987
+Kartaltepe,Kucukcekmece,137,41.0212376,28.7780987
+Kemalpasa,Kucukcekmece,114,41.0212376,28.7780987
+Mehmet akif,Kucukcekmece,95,41.0212376,28.7780987
+Sogutlu cesme,Kucukcekmece,236,41.0212376,28.7780987
+Sultan murat,Kucukcekmece,125,41.0212376,28.7780987
+Tevfikbey,Kucukcekmece,272,41.0212376,28.7780987
+Yarimburgaz,Kucukcekmece,20,41.0212376,28.7780987
+Yeni mahalle,Kucukcekmece,190,41.0212376,28.7780987
+Yesilova,Kucukcekmece,250,41.0212376,28.7780987
+Altaycesme,Maltepe,27,40.9497961,29.1739439
+Altintepe,Maltepe,47,40.9497961,29.1739439
+Aydinevler,Maltepe,12,40.9497961,29.1739439
+Baglarbasi,Maltepe,95,40.9497961,29.1739439
+Basibuyuk,Maltepe,37,40.9497961,29.1739439
+Buyukbakkalkoy,Maltepe,1,40.9497961,29.1739439
+Cevizli,Maltepe,85,40.9497961,29.1739439
+Cinar,Maltepe,19,40.9497961,29.1739439
+Esenkent,Maltepe,55,40.9497961,29.1739439
+Feyzullah,Maltepe,53,40.9497961,29.1739439
+Findikli,Maltepe,22,40.9497961,29.1739439
+Girne,Maltepe,10,40.9497961,29.1739439
+Gulensu,Maltepe,44,40.9497961,29.1739439
+Gulsuyu,Maltepe,37,40.9497961,29.1739439
+Idealtepe,Maltepe,22,40.9497961,29.1739439
+Kucukyali merkez,Maltepe,27,40.9497961,29.1739439
+Yali,Maltepe,55,40.9497961,29.1739439
+Zumrutevler,Maltepe,58,40.9497961,29.1739439
+Ahmet yesevi,Pendik,24,40.879326,29.258135
+Bahcelievler,Pendik,19,40.879326,29.258135
+Ballica,Pendik,0,40.879326,29.258135
+Bati,Pendik,25,40.879326,29.258135
+Camcesme,Pendik,26,40.879326,29.258135
+Camlik,Pendik,5,40.879326,29.258135
+Cinardere,Pendik,27,40.879326,29.258135
+Dogu,Pendik,30,40.879326,29.258135
+Dumlupinar,Pendik,38,40.879326,29.258135
+Emirli,Pendik,0,40.879326,29.258135
+Ertugrul gazi,Pendik,40,40.879326,29.258135
+Esenler,Pendik,12,40.879326,29.258135
+Esenyali,Pendik,19,40.879326,29.258135
+Fatih,Pendik,19,40.879326,29.258135
+Fevzi cakmak,Pendik,26,40.879326,29.258135
+Gocbeyli,Pendik,0,40.879326,29.258135
+Gullu baglar,Pendik,11,40.879326,29.258135
+Guzelyali,Pendik,31,40.879326,29.258135
+Harmandere,Pendik,13,40.879326,29.258135
+Kavakpinar,Pendik,65,40.879326,29.258135
+Kaynarca,Pendik,46,40.879326,29.258135
+Kurna,Pendik,0,40.879326,29.258135
+Kurtdogmus,Pendik,0,40.879326,29.258135
+Kurtkoy,Pendik,8,40.879326,29.258135
+Orhangazi,Pendik,26,40.879326,29.258135
+Orta,Pendik,16,40.879326,29.258135
+Ramazanoglu,Pendik,10,40.879326,29.258135
+Sanayi,Pendik,9,40.879326,29.258135
+Sapan baglari,Pendik,22,40.879326,29.258135
+Suluntepe,Pendik,19,40.879326,29.258135
+Seyhli,Pendik,17,40.879326,29.258135
+Velibaba,Pendik,26,40.879326,29.258135
+Yayalar,Pendik,10,40.879326,29.258135
+Yeni,Pendik,38,40.879326,29.258135
+Yenisehir,Pendik,17,40.879326,29.258135
+Yesilbaglar,Pendik,13,40.879326,29.258135
+Abdurrahmangazi,Sancaktepe,13,41.0287028,29.2901829
+Akpinar,Sancaktepe,36,41.0287028,29.2901829
+Ataturk,Sancaktepe,2,41.0287028,29.2901829
+Emek,Sancaktepe,14,41.0287028,29.2901829
+Eyup sultan,Sancaktepe,9,41.0287028,29.2901829
+Fatih,Sancaktepe,21,41.0287028,29.2901829
+Hilal,Sancaktepe,2,41.0287028,29.2901829
+Inonu,Sancaktepe,2,41.0287028,29.2901829
+Kemal turkler,Sancaktepe,3,41.0287028,29.2901829
+Meclis,Sancaktepe,4,41.0287028,29.2901829
+Merve,Sancaktepe,3,41.0287028,29.2901829
+Mevlana,Sancaktepe,6,41.0287028,29.2901829
+Osmangazi,Sancaktepe,46,41.0287028,29.2901829
+Pasakoy,Sancaktepe,0,41.0287028,29.2901829
+Safa,Sancaktepe,7,41.0287028,29.2901829
+Sarigazi,Sancaktepe,12,41.0287028,29.2901829
+Veysel karani,Sancaktepe,26,41.0287028,29.2901829
+Yenidogan,Sancaktepe,1,41.0287028,29.2901829
+Yunus emre,Sancaktepe,9,41.0287028,29.2901829
+Ayazaga,Sariyer,13,41.1814742,29.0385466
+Bahcekoy kemer,Sariyer,0,41.1814742,29.0385466
+Bahcekoy merkez,Sariyer,0,41.1814742,29.0385466
+Bahcekoy yeni,Sariyer,0,41.1814742,29.0385466
+Baltalimani,Sariyer,3,41.1814742,29.0385466
+Buyukdere,Sariyer,7,41.1814742,29.0385466
+Cumhuriyet,Sariyer,3,41.1814742,29.0385466
+Camlitepe,Sariyer,1,41.1814742,29.0385466
+Cayirbasi,Sariyer,15,41.1814742,29.0385466
+Darussafaka,Sariyer,1,41.1814742,29.0385466
+Demircikoy,Sariyer,0,41.1814742,29.0385466
+Emirgan,Sariyer,0,41.1814742,29.0385466
+Fatih sultan mehmet,Sariyer,4,41.1814742,29.0385466
+Ferahevler,Sariyer,1,41.1814742,29.0385466
+Garipce,Sariyer,0,41.1814742,29.0385466
+Gumusdere,Sariyer,0,41.1814742,29.0385466
+Huzur,Sariyer,1,41.1814742,29.0385466
+Istinye,Sariyer,23,41.1814742,29.0385466
+Kazim karabekir pasa,Sariyer,2,41.1814742,29.0385466
+Kisirkaya,Sariyer,0,41.1814742,29.0385466
+Kirecburnu,Sariyer,0,41.1814742,29.0385466
+Kocatas,Sariyer,1,41.1814742,29.0385466
+Kumkoy (kilyos),Sariyer,0,41.1814742,29.0385466
+Maden,Sariyer,6,41.1814742,29.0385466
+Maslak,Sariyer,6,41.1814742,29.0385466
+Pinar,Sariyer,4,41.1814742,29.0385466
+Poligon,Sariyer,0,41.1814742,29.0385466
+Ptt evleri,Sariyer,7,41.1814742,29.0385466
+Resitpasa,Sariyer,6,41.1814742,29.0385466
+Rumeli hisari,Sariyer,3,41.1814742,29.0385466
+Rumeli kavagi,Sariyer,2,41.1814742,29.0385466
+Rumelifeneri,Sariyer,0,41.1814742,29.0385466
+Sariyer merkez,Sariyer,25,41.1814742,29.0385466
+Tarabya,Sariyer,0,41.1814742,29.0385466
+Uskumrukoy,Sariyer,0,41.1814742,29.0385466
+Yeni,Sariyer,5,41.1814742,29.0385466
+Yenikoy,Sariyer,2,41.1814742,29.0385466
+Zekeriyakoy,Sariyer,0,41.1814742,29.0385466
+Akoren,Silivri,0,41.073678,28.247868
+Alibey,Silivri,24,41.073678,28.247868
+Alipasa,Silivri,1,41.073678,28.247868
+Balaban,Silivri,4,41.073678,28.247868
+Bekirli,Silivri,0,41.073678,28.247868
+Beyciler,Silivri,1,41.073678,28.247868
+Buyuk cavuslu,Silivri,3,41.073678,28.247868
+Buyuk kilicli,Silivri,0,41.073678,28.247868
+Buyuk sinekli,Silivri,0,41.073678,28.247868
+Cumhuriyet,Silivri,22,41.073678,28.247868
+Cayirdere,Silivri,2,41.073678,28.247868
+Celtik,Silivri,0,41.073678,28.247868
+Danamandira,Silivri,0,41.073678,28.247868
+Fatih,Silivri,17,41.073678,28.247868
+Fener,Silivri,2,41.073678,28.247868
+Fevzipasa,Silivri,5,41.073678,28.247868
+Gazitepe,Silivri,1,41.073678,28.247868
+Gumusyaka,Silivri,14,41.073678,28.247868
+Hurriyet,Silivri,0,41.073678,28.247868
+Ismetpasa,Silivri,4,41.073678,28.247868
+Kadikoy,Silivri,4,41.073678,28.247868
+Kavakli,Silivri,0,41.073678,28.247868
+Kurfalli,Silivri,0,41.073678,28.247868
+Kucuk kilicli,Silivri,0,41.073678,28.247868
+Kucuk sinekli,Silivri,0,41.073678,28.247868
+Mimar sinan,Silivri,33,41.073678,28.247868
+Ortakoy,Silivri,4,41.073678,28.247868
+Piri mehmet pasa,Silivri,19,41.073678,28.247868
+Sancaktepe,Silivri,7,41.073678,28.247868
+Sayalar,Silivri,1,41.073678,28.247868
+Selimpasa,Silivri,23,41.073678,28.247868
+Semizkumlar,Silivri,9,41.073678,28.247868
+Seymen,Silivri,0,41.073678,28.247868
+Yeni,Silivri,46,41.073678,28.247868
+Yolcati,Silivri,0,41.073678,28.247868
+Abdurrahmangazi,Sultanbeyli,36,40.968423,29.262008
+Adil,Sultanbeyli,5,40.968423,29.262008
+Ahmet yesevi,Sultanbeyli,23,40.968423,29.262008
+Aksemsettin,Sultanbeyli,11,40.968423,29.262008
+Battalgazi,Sultanbeyli,23,40.968423,29.262008
+Fatih,Sultanbeyli,20,40.968423,29.262008
+Hamidiye,Sultanbeyli,36,40.968423,29.262008
+Hasanpasa,Sultanbeyli,17,40.968423,29.262008
+Mecidiye,Sultanbeyli,17,40.968423,29.262008
+Mehmet akif,Sultanbeyli,34,40.968423,29.262008
+Mimar sinan,Sultanbeyli,5,40.968423,29.262008
+Necip fazil,Sultanbeyli,21,40.968423,29.262008
+Orhangazi,Sultanbeyli,22,40.968423,29.262008
+Turgut reis,Sultanbeyli,10,40.968423,29.262008
+Yavuz selim,Sultanbeyli,20,40.968423,29.262008
+50. yil,Sultangazi,45,41.1255794,28.8713314
+75. yil,Sultangazi,8,41.1255794,28.8713314
+Cebeci,Sultangazi,21,41.1255794,28.8713314
+Cumhuriyet,Sultangazi,4,41.1255794,28.8713314
+Esentepe,Sultangazi,17,41.1255794,28.8713314
+Eski habipler,Sultangazi,0,41.1255794,28.8713314
+Gazi,Sultangazi,20,41.1255794,28.8713314
+Habibler,Sultangazi,0,41.1255794,28.8713314
+Ismetpasa,Sultangazi,17,41.1255794,28.8713314
+Malkocoglu,Sultangazi,2,41.1255794,28.8713314
+Sultanciftligi,Sultangazi,14,41.1255794,28.8713314
+Ugur mumcu,Sultangazi,33,41.1255794,28.8713314
+Yayla,Sultangazi,1,41.1255794,28.8713314
+Yunus emre,Sultangazi,14,41.1255794,28.8713314
+Zubeyde hanim,Sultangazi,21,41.1255794,28.8713314
+Agacdere,Sile,0,41.174903,29.609588
+Agva merkez,Sile,0,41.174903,29.609588
+Ahmetli,Sile,0,41.174903,29.609588
+Akcakese,Sile,0,41.174903,29.609588
+Alacali,Sile,0,41.174903,29.609588
+Avcikoru,Sile,0,41.174903,29.609588
+Balibey,Sile,0,41.174903,29.609588
+Bickidere,Sile,0,41.174903,29.609588
+Bozgoca,Sile,0,41.174903,29.609588
+Bucakli,Sile,0,41.174903,29.609588
+Catakli,Sile,0,41.174903,29.609588
+Cavus,Sile,0,41.174903,29.609588
+Cayirbasi,Sile,0,41.174903,29.609588
+Celebi,Sile,0,41.174903,29.609588
+Cengilli,Sile,0,41.174903,29.609588
+Darlik,Sile,0,41.174903,29.609588
+Degirmencayiri,Sile,0,41.174903,29.609588
+Dogancili,Sile,0,41.174903,29.609588
+Erenler,Sile,0,41.174903,29.609588
+Esenceli,Sile,0,41.174903,29.609588
+Geredeli,Sile,0,41.174903,29.609588
+Goce,Sile,0,41.174903,29.609588
+Gokmasli,Sile,0,41.174903,29.609588
+Goksu,Sile,0,41.174903,29.609588
+Haci kasim,Sile,0,41.174903,29.609588
+Hacilli,Sile,0,41.174903,29.609588
+Hasanli,Sile,0,41.174903,29.609588
+Imrendere,Sile,0,41.174903,29.609588
+Imrenli,Sile,0,41.174903,29.609588
+Isakoy,Sile,0,41.174903,29.609588
+Kabakoz,Sile,0,41.174903,29.609588
+Kadikoy,Sile,0,41.174903,29.609588
+Kalem,Sile,0,41.174903,29.609588
+Karabeyli,Sile,0,41.174903,29.609588
+Karacakoy,Sile,0,41.174903,29.609588
+Karakiraz,Sile,0,41.174903,29.609588
+Karamandere,Sile,0,41.174903,29.609588
+Kervansaray,Sile,0,41.174903,29.609588
+Kizilca,Sile,0,41.174903,29.609588
+Korucu,Sile,0,41.174903,29.609588
+Komurluk,Sile,0,41.174903,29.609588
+Kumbaba,Sile,0,41.174903,29.609588
+Kurfalli,Sile,0,41.174903,29.609588
+Kurna,Sile,0,41.174903,29.609588
+Mesrutiyet,Sile,0,41.174903,29.609588
+Orucoglu,Sile,0,41.174903,29.609588
+Osmankoy,Sile,0,41.174903,29.609588
+Ovacik,Sile,0,41.174903,29.609588
+Sahilkoy,Sile,0,41.174903,29.609588
+Satmazli,Sile,0,41.174903,29.609588
+Sofular,Sile,0,41.174903,29.609588
+Sogullu,Sile,0,41.174903,29.609588
+Sortullu,Sile,0,41.174903,29.609588
+Suayipli,Sile,0,41.174903,29.609588
+Teke,Sile,0,41.174903,29.609588
+Ulupelit,Sile,0,41.174903,29.609588
+Uvezli,Sile,0,41.174903,29.609588
+Yaka,Sile,0,41.174903,29.609588
+Yaylali,Sile,0,41.174903,29.609588
+Yazimanayir,Sile,0,41.174903,29.609588
+Yenikoy,Sile,0,41.174903,29.609588
+Yesilvadi,Sile,0,41.174903,29.609588
+19 mayis,Sisli,7,41.0536216,28.9819731
+Bozkurt,Sisli,6,41.0536216,28.9819731
+Cumhuriyet,Sisli,5,41.0536216,28.9819731
+Duatepe,Sisli,5,41.0536216,28.9819731
+Ergenekon,Sisli,3,41.0536216,28.9819731
+Esentepe,Sisli,3,41.0536216,28.9819731
+Eskisehir,Sisli,8,41.0536216,28.9819731
+Ferikoy,Sisli,8,41.0536216,28.9819731
+Fulya,Sisli,10,41.0536216,28.9819731
+Gulbahar,Sisli,9,41.0536216,28.9819731
+Halaskargazi,Sisli,2,41.0536216,28.9819731
+Halide edip adivar,Sisli,6,41.0536216,28.9819731
+Halil rifat pasa,Sisli,3,41.0536216,28.9819731
+Harbiye,Sisli,1,41.0536216,28.9819731
+Inonu,Sisli,3,41.0536216,28.9819731
+Izzet pasa,Sisli,5,41.0536216,28.9819731
+Kaptanpasa,Sisli,1,41.0536216,28.9819731
+Kustepe,Sisli,13,41.0536216,28.9819731
+Mahmut sevket pasa,Sisli,15,41.0536216,28.9819731
+Mecidiyekoy,Sisli,11,41.0536216,28.9819731
+Merkez,Sisli,10,41.0536216,28.9819731
+Mesrutiyet,Sisli,10,41.0536216,28.9819731
+Pasa,Sisli,12,41.0536216,28.9819731
+Tesvikiye,Sisli,7,41.0536216,28.9819731
+Yayla,Sisli,9,41.0536216,28.9819731
+Akfirat,Tuzla,0,40.8982305,29.3598782
+Anadolu,Tuzla,0,40.8982305,29.3598782
+Aydinli,Tuzla,87,40.8982305,29.3598782
+Aydintepe,Tuzla,34,40.8982305,29.3598782
+Cami,Tuzla,33,40.8982305,29.3598782
+Evliya celebi,Tuzla,27,40.8982305,29.3598782
+Fatih,Tuzla,0,40.8982305,29.3598782
+Icmeler,Tuzla,27,40.8982305,29.3598782
+Istasyon,Tuzla,80,40.8982305,29.3598782
+Mescit,Tuzla,7,40.8982305,29.3598782
+Mimar sinan,Tuzla,159,40.8982305,29.3598782
+Orhanli,Tuzla,6,40.8982305,29.3598782
+Orta,Tuzla,4,40.8982305,29.3598782
+Postane,Tuzla,65,40.8982305,29.3598782
+Sifa,Tuzla,218,40.8982305,29.3598782
+Tepeoren,Tuzla,2,40.8982305,29.3598782
+Yayla,Tuzla,59,40.8982305,29.3598782
+Adem yavuz,Umraniye,12,41.03332899999999,29.10136
+Altinsehir,Umraniye,12,41.03332899999999,29.10136
+Armaganevler,Umraniye,9,41.03332899999999,29.10136
+Asagi dudullu,Umraniye,11,41.03332899999999,29.10136
+Atakent,Umraniye,4,41.03332899999999,29.10136
+Ataturk,Umraniye,9,41.03332899999999,29.10136
+Cemil meric,Umraniye,24,41.03332899999999,29.10136
+Cakmak,Umraniye,5,41.03332899999999,29.10136
+Camlik,Umraniye,2,41.03332899999999,29.10136
+Dumlupinar,Umraniye,9,41.03332899999999,29.10136
+Elmalikent,Umraniye,8,41.03332899999999,29.10136
+Esenevler,Umraniye,3,41.03332899999999,29.10136
+Esenkent,Umraniye,4,41.03332899999999,29.10136
+Esensehir,Umraniye,13,41.03332899999999,29.10136
+Fatih sultan mehmet,Umraniye,1,41.03332899999999,29.10136
+Hekimbasi,Umraniye,3,41.03332899999999,29.10136
+Huzur,Umraniye,5,41.03332899999999,29.10136
+Ihlamurkuyu,Umraniye,13,41.03332899999999,29.10136
+Inkilap,Umraniye,8,41.03332899999999,29.10136
+Istiklal,Umraniye,7,41.03332899999999,29.10136
+Kazim karabekir,Umraniye,9,41.03332899999999,29.10136
+Madenler,Umraniye,3,41.03332899999999,29.10136
+Mehmet akif,Umraniye,2,41.03332899999999,29.10136
+Namik kemal,Umraniye,8,41.03332899999999,29.10136
+Necip fazil,Umraniye,24,41.03332899999999,29.10136
+Parseller,Umraniye,8,41.03332899999999,29.10136
+Saray,Umraniye,0,41.03332899999999,29.10136
+Site,Umraniye,9,41.03332899999999,29.10136
+Serifali,Umraniye,1,41.03332899999999,29.10136
+Tantavi,Umraniye,2,41.03332899999999,29.10136
+Tatlisu,Umraniye,1,41.03332899999999,29.10136
+Tepeustu,Umraniye,4,41.03332899999999,29.10136
+Topagaci,Umraniye,7,41.03332899999999,29.10136
+Yamanevler,Umraniye,4,41.03332899999999,29.10136
+Yukari dudullu,Umraniye,6,41.03332899999999,29.10136
+Acibadem,Uskudar,13,41.0189417,29.0576298
+Ahmediye,Uskudar,9,41.0189417,29.0576298
+Altunizade,Uskudar,6,41.0189417,29.0576298
+Aziz mahmut hudayi,Uskudar,13,41.0189417,29.0576298
+Bahcelievler,Uskudar,11,41.0189417,29.0576298
+Barbaros,Uskudar,8,41.0189417,29.0576298
+Beylerbeyi,Uskudar,4,41.0189417,29.0576298
+Bulgurlu,Uskudar,6,41.0189417,29.0576298
+Burhaniye,Uskudar,10,41.0189417,29.0576298
+Cumhuriyet,Uskudar,11,41.0189417,29.0576298
+Cengelkoy,Uskudar,11,41.0189417,29.0576298
+Ferah,Uskudar,19,41.0189417,29.0576298
+Guzeltepe,Uskudar,6,41.0189417,29.0576298
+Icadiye,Uskudar,15,41.0189417,29.0576298
+Kandilli,Uskudar,0,41.0189417,29.0576298
+Kisikli,Uskudar,10,41.0189417,29.0576298
+Kirazlitepe,Uskudar,14,41.0189417,29.0576298
+Kuleli,Uskudar,0,41.0189417,29.0576298
+Kuzguncuk,Uskudar,5,41.0189417,29.0576298
+Kucukcamlica,Uskudar,7,41.0189417,29.0576298
+Kucuksu,Uskudar,4,41.0189417,29.0576298
+Kupluce,Uskudar,11,41.0189417,29.0576298
+Mehmet akif ersoy,Uskudar,13,41.0189417,29.0576298
+Mimar sinan,Uskudar,29,41.0189417,29.0576298
+Muratreis,Uskudar,16,41.0189417,29.0576298
+Salacak,Uskudar,9,41.0189417,29.0576298
+Selami ali,Uskudar,12,41.0189417,29.0576298
+Selimiye,Uskudar,8,41.0189417,29.0576298
+Sultantepe,Uskudar,18,41.0189417,29.0576298
+Unalan,Uskudar,23,41.0189417,29.0576298
+Valide-i atik,Uskudar,19,41.0189417,29.0576298
+Yavuzturk,Uskudar,15,41.0189417,29.0576298
+Zeynep kamil,Uskudar,10,41.0189417,29.0576298
+Bestelsiz,Zeytinburnu,147,40.990635,28.89614
+Cirpici,Zeytinburnu,202,40.990635,28.89614
+Gokalp,Zeytinburnu,118,40.990635,28.89614
+Kazlicesme,Zeytinburnu,36,40.990635,28.89614
+Maltepe,Zeytinburnu,44,40.990635,28.89614
+Merkezefendi,Zeytinburnu,105,40.990635,28.89614
+Nuripasa,Zeytinburnu,173,40.990635,28.89614
+Seyitnizam,Zeytinburnu,134,40.990635,28.89614
+Sumer,Zeytinburnu,229,40.990635,28.89614
+Telsiz,Zeytinburnu,223,40.990635,28.89614
+Veliefendi,Zeytinburnu,175,40.990635,28.89614
+Yenidogan,Zeytinburnu,63,40.990635,28.89614
+Yesiltepe,Zeytinburnu,118,40.990635,28.89614
