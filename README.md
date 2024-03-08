@@ -1,0 +1,3 @@
+This earthquake impact calculation project is a project that takes into account the possible loss of life and injuries that may occur in a possible earthquake scenario of magnitude 7 or above, which may occur specifically in Istanbul, for all districts and neighborhoods in Istanbul. For this, we first used the dataset containing the building analysis reports of Istanbul Municipality. In addition, we measured the distances of health and emergency aid institutions to the centers of the districts and whether their capacities were adequately distributed according to the capacity that may be needed.
+
+While doing this project, we realized all the visual elements and logic parts we created, especially heat maps and graphics, on Python and Jupyter Notebook.
